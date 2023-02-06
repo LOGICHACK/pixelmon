@@ -1,4 +1,15 @@
 =================================
+Havens Pixelmon Update 2.1
+
+-Added new mods 
++Travellers Backpacks
++Tinkers Constuct
++Nomad Tents
++Biomes o Plenty
++Lootr
++Supplementaries
+
+=================================
 Haven SMP Update 6.9 ....Nice
 
 -Lore Professions mod updated
