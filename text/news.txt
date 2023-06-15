@@ -1,8 +1,21 @@
 =================================
 Haven SMP Update 7.0
 
+-Season 7 Is ready for Launch!
+-Please Update your modpack To
+the new version, and to remove
+any data in case of corruption
+-If you have any Issues please
+Create a ticket in the discord
+https://discord.gg/havensgaming
+
+
+
+=================================
+Haven SMP Update 7.0
+
 -Season 7 Will be launching
-mid may at the latest.
+mid june at the latest.
 -Beta testing is open 
 -Deleyed due to head dev
 being sick
